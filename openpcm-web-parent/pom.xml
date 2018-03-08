@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.openpcm</groupId>
+	<artifactId>openpcm-web-parent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>OpenPCM Parent</name>
+
+	<modules>
+		<module>openpcm-web</module>
+	</modules>
+
+	<properties>
+		<!-- build props -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<jacoco-maven-plugin.version>0.7.4.201502262128</jacoco-maven-plugin.version>
+		<maven.compiler.version>3.3</maven.compiler.version>
+		<maven.build.timestamp.format>yyyy-MM-dd_HH-mm</maven.build.timestamp.format>
+	</properties>
+
+	<build>
+	</build>
+
+	<dependencyManagement>
+		<dependencies>
+		</dependencies>
+	</dependencyManagement>
+
+	<repositories>
+	</repositories>
+
+</project>
