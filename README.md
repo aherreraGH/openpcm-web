@@ -2,8 +2,6 @@
 
 ## Web Client for [OpenPCM Server]
 
-## Patient and doctor centric electronic medical record
-
 ## GNU License included
 
 ### Building and running application
