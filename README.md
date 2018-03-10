@@ -1,16 +1,23 @@
-# OpenPCM Web (Open Patient Care Management)
+# OpenPCM (Open Patient Care Management) Web
 
 ## Web Client for [OpenPCM Server]
 
 ## GNU License included
 
-### Building and running application
-Read here on [how to deploy and run] the app
 
-See Project page for current progress on feature set
+## More Information
 
-[Jenkins Build]
+View the [OpenPCM Web Project Page] to learn about progress on features.
+
+View the [OpenPCM Web Wiki] to lean more technical information about the application
+
+## Builds
+Master Build:
+[![Master Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Master)](http://openpcm.org:9091/job/OpenPCM_Web_Master)
+
+Dev Build:
+[![Dev Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Dev)](http://openpcm.org:9091/job/OpenPCM_Web_Dev)
 
 [OpenPCM Server]: https://github.com/OpenPCM/openpcm-server
-[how to deploy and run]: https://github.com/gsugambit/openpcm/wiki/Building-and-Running-Project
-[Jenkins Build]: http://98.192.146.97:9091/job/OpenPCM_MASTER/lastBuild/buildStatus
+[OpenPCM Project Page]: https://github.com/OpenPCM/openpcm-web/projects
+[OpenPCM Wiki]: https://github.com/OpenPCM/openpcm-web/wiki
