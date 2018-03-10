@@ -4,6 +4,9 @@
 
 ## GNU [License] included
 
+## You Contribution
+Read [here] on ways to contribute to this project.
+
 ## More Information
 
 View the [OpenPCM Web Project Page] to learn about progress on features.
@@ -18,6 +21,7 @@ Dev Build:
 [![Dev Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Dev)](http://openpcm.org:9091/job/OpenPCM_Web_Dev)
 
 [License]: https://github.com/OpenPCM/openpcm-web/blob/dev/LICENSE
+[here]: https://github.com/OpenPCM/openpcm-web/blob/dev/CONTRIBUTING.md
 [OpenPCM Server]: https://github.com/OpenPCM/openpcm-server
 [OpenPCM Web Project Page]: https://github.com/OpenPCM/openpcm-web/projects
 [OpenPCM Web Wiki]: https://github.com/OpenPCM/openpcm-web/wiki
