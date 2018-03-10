@@ -4,7 +4,7 @@
 
 ## GNU [License] included
 
-## You Contribution
+## Your Contribution
 Read [here] on ways to contribute to this project.
 
 ## More Information
