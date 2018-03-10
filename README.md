@@ -2,10 +2,11 @@
 
 ## Web Client for [OpenPCM Server]
 
-## GNU [License] included
+## [GNU License included]
 
-## Your Contribution
-Read [here] on ways to contribute to this project.
+## [Code of Conduct]
+
+## [Contributing Information]
 
 ## More Information
 
@@ -20,8 +21,9 @@ Master Build:
 Dev Build:
 [![Dev Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Dev)](http://openpcm.org:9091/job/OpenPCM_Web_Dev)
 
-[License]: https://github.com/OpenPCM/openpcm-web/blob/dev/LICENSE
-[here]: https://github.com/OpenPCM/openpcm-web/blob/dev/CONTRIBUTING.md
+[GNU License included]: https://github.com/OpenPCM/openpcm-web/blob/dev/LICENSE
+[Code of Conduct]: https://github.com/OpenPCM/openpcm-web/blob/master/CODE_OF_CONDUCT.md
+[Contributing Information]: https://github.com/OpenPCM/openpcm-web/blob/dev/CONTRIBUTING.md
 [OpenPCM Server]: https://github.com/OpenPCM/openpcm-server
 [OpenPCM Web Project Page]: https://github.com/OpenPCM/openpcm-web/projects
 [OpenPCM Web Wiki]: https://github.com/OpenPCM/openpcm-web/wiki
