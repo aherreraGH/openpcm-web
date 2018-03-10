@@ -19,5 +19,5 @@ Dev Build:
 [![Dev Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Dev)](http://openpcm.org:9091/job/OpenPCM_Web_Dev)
 
 [OpenPCM Server]: https://github.com/OpenPCM/openpcm-server
-[OpenPCM Project Page]: https://github.com/OpenPCM/openpcm-web/projects
-[OpenPCM Wiki]: https://github.com/OpenPCM/openpcm-web/wiki
+[OpenPCM Web Project Page]: https://github.com/OpenPCM/openpcm-web/projects
+[OpenPCM Web Wiki]: https://github.com/OpenPCM/openpcm-web/wiki
