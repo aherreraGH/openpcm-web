@@ -9,8 +9,6 @@ Here are the current tools we use to manage this project. Some of these tools ma
 - Development Information can be found in pages on our [Wiki] hosted here on GitHub
 
 # Testing
-
-# Testing
 This section is currently blank but will be updated in the future.
 
 # Commiting Your Code
@@ -26,8 +24,6 @@ $ git commit -m "A brief summary of the commit
 ```
 
 # Coding Conventions
-
-## Coding
 This section is currently blank but will be updated in the future.
 
 # Thank You
