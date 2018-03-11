@@ -16,9 +16,7 @@ View the [OpenPCM Web Wiki] to lean more technical information about the applica
 
 ## Builds
 Master Build:
-[![Master Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Master)](http://openpcm.org:9091/job/OpenPCM_Web_Master)
-
-Dev Build:
+[![Master Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Master)](http://openpcm.org:9091/job/OpenPCM_Web_Master) &nbsp;&nbsp; Dev Build:
 [![Dev Build Status](http://openpcm.org:9091/buildStatus/icon?job=OpenPCM_Web_Dev)](http://openpcm.org:9091/job/OpenPCM_Web_Dev)
 
 [GNU License included]: https://github.com/OpenPCM/openpcm-web/blob/dev/LICENSE
